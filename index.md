@@ -1,6 +1,6 @@
 ---
 title: 成步堂
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "https://img.alicdn.com/imgextra/i4/2710706468/O1CN01d3eEFd1xeOUdwBlTu_!!2710706468.jpg"
 feature_text:
 ---
 <p>感谢你访问我们的网站，为你提供良好的产品和服务。</p>
