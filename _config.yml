@@ -21,10 +21,10 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://www.chengbutang.com'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'ChengBuTang'
+description: '成步堂专注正版模玩'
 permalink: pretty
 logo: "https://img.alicdn.com/imgextra/i2/2710706468/O1CN01bF11cs1xeOUc1IXH1_!!2710706468.jpg"
 
@@ -45,7 +45,7 @@ navigation_header:
 
 # Footer nav
 navigation_footer:
-- title: Back to top
+- title: 返回顶部↑Back to top
   url: "#top"
 
 # Collections
