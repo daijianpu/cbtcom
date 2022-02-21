@@ -1,5 +1,12 @@
 ---
-title: About this website
+title: 关于
 ---
-
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+<p>成步堂</p>
+<p>成立于2018年11月20日</p>
+<p>目前主要做日版</p>
+<p>港版也能供货但是不多</p>
+<p>代理版从瑞华行订购</p>
+<p>也有和同行进行合作</p>
+<p>我们减少预定</p>
+<p>转向现货发售</p>
+<p>联系<a href="https://chengbutang.com/contact/">我们</a></p>
