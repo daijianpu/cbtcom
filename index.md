@@ -1,6 +1,6 @@
 ---
 title: 成步堂
-feature_image:
+feature_image:https://img.alicdn.com/imgextra/i4/2710706468/O1CN017d4VvG1xeOV33vvOR_!!2710706468.jpg
 feature_text:
 ---
 <p>感谢访问我们的网站,我们致力于为你提供良好的产品。</p>
