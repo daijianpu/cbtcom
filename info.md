@@ -6,4 +6,4 @@ feature_image:
 ---
 <hr>
 2022年假面骑士极狐GEATS
-![假面骑士极狐](https://www.tv-asahi.co.jp/geats/common-img/main.png)
+<img src="https://www.tv-asahi.co.jp/geats/common-img/main.png" alt="德凯奥特曼" />
